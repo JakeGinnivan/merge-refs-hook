@@ -1,5 +1,8 @@
 # Merge refs hook
 
+[![Build Status](https://travis-ci.com/JakeGinnivan/merge-refs-hook.svg?branch=master)](https://travis-ci.com/JakeGinnivan/merge-refs-hook)
+[![npm](https://img.shields.io/npm/v/merge-refs-hook)](https://www.npmjs.com/package/merge-refs-hook)
+
 The goal of this package is to make it easy to have a component which requires a ref but also wants to support forwarding refs.
 
 ## Example
